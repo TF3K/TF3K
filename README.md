@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is TF3K
 #### A computer science student
-![A computer science student]
 
 
 Skills: Next.js / React / Rust / Typescript
