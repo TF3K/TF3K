@@ -1,10 +1,9 @@
 ### Hi there 👋, my name is TF3K
-#### A computer science student
+#### Computer science student
 
 
 Skills: Next.js / React / Rust / Typescript
 
-- 🔭 I’m currently working on : Serene Pulse 
 - 💬 Ask me about Rust, Next.js, React, Typescript 
 - 📫 How to reach me: azizmokni10@gmail.com 
 
